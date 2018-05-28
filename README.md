@@ -1,7 +1,7 @@
 ## austin-animal-center-classifier
 This repository contains different models, that were used to predict outcome animal type for AAC shelter 
 
-Used dataset: https://www.kaggle.com/iabhishekofficial/mobile-price-classification
+Used dataset: https://www.kaggle.com/aaronschlegel/austin-animal-center-shelter-outcomes-and/data
 
 ### Short description of the dataset:
 
